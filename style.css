@@ -96,7 +96,7 @@
    	}
    .tg:hover {
      	background-color: rgb(77, 205, 228);
-      color: black;
+      color: white;
       box-shadow: 3px 3px 25px rgba(17, 255, 255, 1);
    	}
    .sub:active {
@@ -143,7 +143,7 @@
 
 .git:hover {
 	background-color: rgb(42, 192, 2);
-	color: black;
+	color: white;
 	box-shadow: 3px 3px 25px rgba(76, 175, 80, 105);
         }
 
